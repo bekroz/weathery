@@ -1,0 +1,2 @@
+{"coord":{"lon":69.2949,"lat":41.3164},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"base":"stations","main":{"temp":283.9,"feels_like":283.64,"temp_min":283.9,"temp_max":283.9,"pressure":1024,"humidity":100},"visibility":7000,"wind":{"speed":3.09,"deg":290},"clouds":{"all":100},"dt":1667122412,"sys":{"type":1,"id":9016,"country":"UZ","sunrise":1667094674,"sunset":1667132494},"timezone":18000,"id":1484839,"name":"Toshkent Shahri","cod":200}
+
